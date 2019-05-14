@@ -1,0 +1,14 @@
+** De pe link-ul asta ar trebui doar sa cititi si sa stiti cum functioneaza PCA**
+https://plot.ly/ipython-notebooks/principal-component-analysis/
+
+
+** Aici gasiti un exemplu in care se aplica PCA. Cam la fel ar trebui sa arate si ce faceti voi.**
+** Puteti gasi/implementa si alte tutoriale care aplica PCA pe diverse setu-uri de date.**
+https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
+
+
+
+ ** iris data-set
+ ** mnist
+ ** text (imdb reviews)
+
