@@ -12,3 +12,6 @@ https://towardsdatascience.com/pca-using-python-scikit-learn-e653f8989e60
  ** mnist
  ** text (imdb reviews)
 
+** https://medium.com/@jonathan_hui/machine-learning-singular-value-decomposition-svd-principal-component-analysis-pca-1d45e885e491 **
+
+
